@@ -1,7 +1,6 @@
-## Hi there gurt 👋
+## Hi there 👋
 
-Yo: gurt
-Gurt: yo
+
 <!--
 **tektonic99/tektonic99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
